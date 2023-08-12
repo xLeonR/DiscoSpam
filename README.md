@@ -5,16 +5,27 @@ There are a few Discord raid tools on GitHub, however, I didn't find that they s
 # Features
 
 -Proxy Support
+ 
  -Add/Remove Friends
+ 
  -Logger
--Voice Chat Support
+-
+Voice Chat Support
+
  -Add Nickname Changing
+ 
  -Add Ability To Change Status
+ 
  -Add Ability To Heartbeat Token
+ 
  -Add Support For Colon Emojis :joy:
+ 
  -Token Checker
--Create, Train, Manage Captcha Solving AI
+-
+Create, Train, Manage Captcha Solving AI
+
 -Allow Fake Typing
+
 -Anti-Kick, Auto Join Back If Kicked
 
 ![image](https://github.com/xLeonR/DiscoSpam/assets/142112220/26c79383-e723-4645-ae5d-3bf84e445cc3)
